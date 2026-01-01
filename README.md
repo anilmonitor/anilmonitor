@@ -1,4 +1,4 @@
-[![MasterHead](https://miro.medium.com/v2/resize:fit:720/format:webp/1*28qfZE7ryhMmqM9EfTwyTg.gif)]
+
 <h1 align="center">Hi 👋, I'm ANIL</h1>
 <h3 align="center">A passionate frontend developer❤️</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
