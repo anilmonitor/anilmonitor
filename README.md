@@ -7,8 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/anilmonitor" target="blank"><img src="https://img.shields.io/twitter/follow/anilmonitor?logo=twitter&style=for-the-badge" alt="anilmonitor" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://ytgrowkar.com](https://ytgrowkar.com)
-- 📝 I write articles on [https://xpertbite.in](https://xpertbite.in)
+- 📝 Build your idea [https://xpertbite.in](https://xpertbite.in)
 - 📫 How to reach me **anilarangi6@gmail.com**
 
 
